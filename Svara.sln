@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SvarApp", "SvarApp\SvarApp.csproj", "{D32A66D1-D0C2-45F3-9489-E40D2B2FE6C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SvaraSampleApp", "SvarApp\SvaraSampleApp.csproj", "{D32A66D1-D0C2-45F3-9489-E40D2B2FE6C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svara", "Svara\Svara.csproj", "{8F45E11F-648A-4742-9277-98FC52DEE141}"
 EndProject

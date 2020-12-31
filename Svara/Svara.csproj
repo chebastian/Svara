@@ -5,6 +5,7 @@
     <LangVersion>9</LangVersion>
     <Authors>Sebastian Ferngren</Authors>
     <Description>A simple query library that will prompt the user for input via notepad.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
