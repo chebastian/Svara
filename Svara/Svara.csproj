@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5</TargetFramework>
+    <LangVersion>9</LangVersion>
+    <Authors>Sebastian Ferngren</Authors>
+    <Description>A simple query library that will prompt the user for input via notepad.</Description>
+  </PropertyGroup>
+
+</Project>
