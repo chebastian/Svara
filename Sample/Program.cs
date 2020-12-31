@@ -9,7 +9,6 @@ namespace Svara
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             var query = new Svara.Query("temp.txt");
 
             var test = query.GetUserInput("Hello there: ");
